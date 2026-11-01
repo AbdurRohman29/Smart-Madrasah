@@ -1,0 +1,8 @@
+{
+  "name": "Madrasah 360 & SPMB Smart Portal",
+  "description": "Aplikasi Virtual Tour Madrasah Interaktif 360°, Profil Ruang Kelas, Pendaftaran Siswa Baru (SPMB) Online dengan Notifikasi Real-time, Chatbot AI, dan Dashboard Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
